@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env"]
+}
+
+// env preset은 es2015이상의 최신 Javscript 문법을 해석
